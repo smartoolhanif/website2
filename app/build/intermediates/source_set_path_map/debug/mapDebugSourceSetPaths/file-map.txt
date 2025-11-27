@@ -1,0 +1,36 @@
+com.sms.sopnopay.app-lifecycle-livedata-core-2.6.2-0 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\00a4fc05f6a0e6070d147a0b65685ea4\transformed\lifecycle-livedata-core-2.6.2\res
+com.sms.sopnopay.app-transition-1.5.0-1 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\01bb24e8b26d1327b2aad6c49de071c0\transformed\transition-1.5.0\res
+com.sms.sopnopay.app-jetified-activity-1.9.1-2 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\0bb9a8734a8bbe591f856ebf0232630c\transformed\jetified-activity-1.9.1\res
+com.sms.sopnopay.app-jetified-viewpager2-1.0.0-3 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\2111ebec7daa223ff15da46e0ee66123\transformed\jetified-viewpager2-1.0.0\res
+com.sms.sopnopay.app-lifecycle-livedata-2.6.2-4 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\27401e15847fc4697e2d45c8b4219dd1\transformed\lifecycle-livedata-2.6.2\res
+com.sms.sopnopay.app-drawerlayout-1.1.1-5 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\28a4d69cea47ad1c99156592f5e1f372\transformed\drawerlayout-1.1.1\res
+com.sms.sopnopay.app-jetified-startup-runtime-1.1.1-6 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\2b071a89433cbf19d1eea413f0d5c0d7\transformed\jetified-startup-runtime-1.1.1\res
+com.sms.sopnopay.app-core-runtime-2.2.0-7 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\2dfd50c4df30dbd280a9b3f6cc93828c\transformed\core-runtime-2.2.0\res
+com.sms.sopnopay.app-jetified-savedstate-1.2.1-8 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\38f791c3c5cde55d0311d17bbc015d28\transformed\jetified-savedstate-1.2.1\res
+com.sms.sopnopay.app-coordinatorlayout-1.1.0-9 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3ad7031c27aa39c82d4b8c0db6061772\transformed\coordinatorlayout-1.1.0\res
+com.sms.sopnopay.app-jetified-emoji2-1.3.0-10 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\res
+com.sms.sopnopay.app-cardview-1.0.0-11 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3c4ecdb4c897325e8a9cb270c60c4443\transformed\cardview-1.0.0\res
+com.sms.sopnopay.app-jetified-annotation-experimental-1.4.0-12 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3fe5d6645ade0091abaa02e6f8a67969\transformed\jetified-annotation-experimental-1.4.0\res
+com.sms.sopnopay.app-jetified-profileinstaller-1.3.1-13 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\res
+com.sms.sopnopay.app-jetified-appcompat-resources-1.7.0-14 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\720b1df72f47f20ce5f53b68c1d7db63\transformed\jetified-appcompat-resources-1.7.0\res
+com.sms.sopnopay.app-core-1.13.0-15 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\res
+com.sms.sopnopay.app-fragment-1.5.4-16 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7c0937cce78ced3f166dfe1a8605fd62\transformed\fragment-1.5.4\res
+com.sms.sopnopay.app-jetified-emoji2-views-helper-1.3.0-17 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7c4ab0660487825733563b58a3f515ed\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.sms.sopnopay.app-material-1.12.0-18 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7eb2e342b25b80c05520e8c72775f3c3\transformed\material-1.12.0\res
+com.sms.sopnopay.app-constraintlayout-2.1.4-19 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\9f480002ac43a2e499664a3a91139f15\transformed\constraintlayout-2.1.4\res
+com.sms.sopnopay.app-lifecycle-runtime-2.6.2-20 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\a472e5b98255bd6fc949dd31c251ecc4\transformed\lifecycle-runtime-2.6.2\res
+com.sms.sopnopay.app-lifecycle-viewmodel-2.6.2-21 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\a5a4ddad7f41cd5dbf77a3a9fae995cb\transformed\lifecycle-viewmodel-2.6.2\res
+com.sms.sopnopay.app-recyclerview-1.1.0-22 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\a90f46e216c9f6a2ad065268ee9c5478\transformed\recyclerview-1.1.0\res
+com.sms.sopnopay.app-appcompat-1.7.0-23 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\ba63504c75adbe4ccf3b912074417ca5\transformed\appcompat-1.7.0\res
+com.sms.sopnopay.app-jetified-lifecycle-process-2.6.2-24 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\c4003cecc696485edca78fd22f75e67d\transformed\jetified-lifecycle-process-2.6.2\res
+com.sms.sopnopay.app-jetified-lottie-6.4.1-25 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\c4c83c5c444704678f364b7410e693a4\transformed\jetified-lottie-6.4.1\res
+com.sms.sopnopay.app-jetified-Animatoo-master-26 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\c786e66fbdc00a7fd562832fb63e43d5\transformed\jetified-Animatoo-master\res
+com.sms.sopnopay.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-27 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\e997c2cda80e3688d332fb8df939aeb4\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.sms.sopnopay.app-jetified-core-ktx-1.13.0-28 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\eff8e103c795748b44e715e43834a765\transformed\jetified-core-ktx-1.13.0\res
+com.sms.sopnopay.app-pngs-29 D:\Sopno Pay\app\build\generated\res\pngs\debug
+com.sms.sopnopay.app-resValues-30 D:\Sopno Pay\app\build\generated\res\resValues\debug
+com.sms.sopnopay.app-packageDebugResources-31 D:\Sopno Pay\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sms.sopnopay.app-packageDebugResources-32 D:\Sopno Pay\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sms.sopnopay.app-debug-33 D:\Sopno Pay\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.sms.sopnopay.app-debug-34 D:\Sopno Pay\app\src\debug\res
+com.sms.sopnopay.app-main-35 D:\Sopno Pay\app\src\main\res
