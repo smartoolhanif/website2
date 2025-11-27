@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_back.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/back.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_eye.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/eye.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_send.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/send.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/layout_activity_login.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_ic_visibility.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/xml_backup_rules.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_sopnopay.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/sopnopay.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/xml_network_security_config.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_logout.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/logout.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_sopnologo.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/sopnologo.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_paycl.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/paycl.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/raw_girl.json.flat",
+        "source": "com.sms.sopnopay.app-main-34:/raw/girl.json"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_mlogo.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/mlogo.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/raw_home_animation.json.flat",
+        "source": "com.sms.sopnopay.app-main-34:/raw/home_animation.json"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_paycappi.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/paycappi.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_qrscan.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/qrscan.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/raw_nointernet.json.flat",
+        "source": "com.sms.sopnopay.app-main-34:/raw/nointernet.json"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_pplogo.jpg.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/pplogo.jpg"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_ripple_effect.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/ripple_effect.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_icon.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/icon.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/layout_activity_main.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/layout_custom_toast.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/layout/custom_toast.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_eye_animation.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/eye_animation.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_nowifi.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/nowifi.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/raw_validate1.json.flat",
+        "source": "com.sms.sopnopay.app-main-34:/raw/validate1.json"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_scanner.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/scanner.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_findduzz.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/findduzz.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_tka.PNG.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/tka.PNG"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/layout_splash_screen.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/layout/splash_screen.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/raw_scan.json.flat",
+        "source": "com.sms.sopnopay.app-main-34:/raw/scan.json"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_paylogo.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/paylogo.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/raw_wifioff.json.flat",
+        "source": "com.sms.sopnopay.app-main-34:/raw/wifioff.json"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_slogo.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/slogo.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_whitelay.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/whitelay.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/layout_message.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/layout/message.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_logo.PNG.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/logo.PNG"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_sm.PNG.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/sm.PNG"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/drawable_swapno.png.flat",
+        "source": "com.sms.sopnopay.app-main-34:/drawable/swapno.png"
+    },
+    {
+        "merged": "com.sms.sopnopay.app-release-33:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sms.sopnopay.app-main-34:/mipmap-hdpi/ic_launcher_foreground.webp"
+    }
+]
