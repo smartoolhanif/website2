@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.4.1" type="incidents">
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="This class should provide a default constructor (a public constructor with no arguments) (`com.sms.sopnopay.NetworkChangeReceiver`)">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*manifest*0}"
+            line="76"
+            column="33"
+            startOffset="3630"
+            endLine="76"
+            endColumn="55"
+            endOffset="3652"/>
+    </incident>
+
+</incidents>
