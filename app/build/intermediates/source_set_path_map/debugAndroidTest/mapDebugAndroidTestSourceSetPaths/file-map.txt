@@ -1,0 +1,5 @@
+com.sms.sopnopay.test.app-jetified-core-1.6.1-0 C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\e105e4829d463631b3592513c76f7007\transformed\jetified-core-1.6.1\res
+com.sms.sopnopay.test.app-androidTest-1 D:\Sopno Pay\app\build\generated\res\resValues\androidTest\debug
+com.sms.sopnopay.test.app-mergeDebugAndroidTestResources-2 D:\Sopno Pay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.sms.sopnopay.test.app-mergeDebugAndroidTestResources-3 D:\Sopno Pay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.sms.sopnopay.test.app-debugAndroidTest-4 D:\Sopno Pay\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
