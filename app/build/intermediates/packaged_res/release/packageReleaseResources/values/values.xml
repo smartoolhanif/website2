@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="green">#7D43E3</color>
+    <color name="homepage">#F4F4F4</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="primary">#43C348</color>
+    <color name="red">#CD3A2F</color>
+    <color name="statusbar">#5EB2F4</color>
+    <color name="white">#FFFFFF</color>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">PayCadre Merchant</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="Base.Theme.SohojpayBD" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:statusBarColor">@color/statusbar</item>
+
+        <item name="colorPrimary">@color/statusbar</item>
+
+        <item name="android:navigationBarColor">@color/statusbar</item>
+        <item name="android:windowLightNavigationBar" ns1:ignore="NewApi">false</item>
+
+    </style>
+    <style name="Theme.SohojpayBD" parent="Base.Theme.SohojpayBD"/>
+</resources>
