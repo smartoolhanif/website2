@@ -1,0 +1,300 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sms.sopnopay"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature
+11-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:5:5-7:36
+12        android:name="android.hardware.telephony"
+12-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:6:9-50
+13        android:required="false" />
+13-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:7:9-33
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:9:5-65
+15-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:9:22-62
+16
+17    <uses-feature android:name="android.hardware.camera" />
+17-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:11:5-60
+17-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:11:19-57
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:12:5-81
+19-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:12:22-78
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:13:5-80
+20-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:13:22-77
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:9:5-65
+21-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:9:22-62
+22
+23    <meta-data
+23-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:18:5-20:44
+24        android:name="androidx.camera.lifecycle.ProcessCameraProvider"
+24-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:19:9-71
+25        android:value="androidx.startup" />
+25-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:20:9-41
+26
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:21:5-79
+27-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:21:22-76
+28    <uses-permission android:name="android.permission.INTERNET" />
+28-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:22:5-67
+28-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:22:22-64
+29    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+29-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:23:5-75
+29-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:23:22-72
+30    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+30-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:24:5-77
+30-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:24:22-74
+31    <uses-permission android:name="android.permission.READ_SMS" />
+31-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:25:5-67
+31-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:25:22-64
+32    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+32-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:26:5-70
+32-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:26:22-67
+33    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+33-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:27:5-77
+33-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:27:22-74
+34    <uses-permission android:name="android.permission.SEND_SMS" />
+34-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:28:5-67
+34-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:28:22-64
+35    <uses-permission android:name="android.permission.VIBRATE" />
+35-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:29:5-66
+35-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:29:22-63
+36    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+36-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:30:5-81
+36-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:30:22-78
+37    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+37-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:31:5-81
+37-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:31:22-78
+38    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+38-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:32:5-79
+38-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:32:22-76
+39    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+39-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:33:5-76
+39-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:33:22-73
+40    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+40-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:34:5-78
+40-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:34:22-75
+41    <uses-permission android:name="android.permission.WAKE_LOCK" />
+41-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:35:5-68
+41-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:35:22-65
+42    <uses-permission android:name="android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND" />
+42-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:36:5-94
+42-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:36:22-91
+43    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+43-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:37:5-95
+43-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:37:22-92
+44    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+44-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:38:5-86
+44-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:38:22-83
+45    <uses-permission android:name="android.permission.DUMP" />
+45-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:39:5-41:47
+45-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:40:9-47
+46
+47    <permission
+47-->[androidx.core:core:1.13.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+48        android:name="com.sms.sopnopay.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+48-->[androidx.core:core:1.13.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+49        android:protectionLevel="signature" />
+49-->[androidx.core:core:1.13.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+50
+51    <uses-permission android:name="com.sms.sopnopay.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+51-->[androidx.core:core:1.13.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+51-->[androidx.core:core:1.13.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+52
+53    <application
+53-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:43:5-108:19
+54        android:allowBackup="true"
+54-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:44:9-35
+55        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+55-->[androidx.core:core:1.13.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\7be633aac5f71b91553fc2f98b26112e\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+56        android:dataExtractionRules="@xml/data_extraction_rules"
+56-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:45:9-65
+57        android:debuggable="true"
+58        android:extractNativeLibs="false"
+59        android:fullBackupContent="@xml/backup_rules"
+59-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:46:9-54
+60        android:icon="@drawable/selfpayfev"
+60-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:47:9-44
+61        android:label="@string/app_name"
+61-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:48:9-41
+62        android:networkSecurityConfig="@xml/network_security_config"
+62-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:49:9-69
+63        android:roundIcon="@drawable/selfpayfev"
+63-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:50:9-49
+64        android:supportsRtl="true"
+64-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:51:9-35
+65        android:theme="@style/Theme.SohojpayBD" >
+65-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:52:9-48
+66        <activity
+66-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:55:9-57:39
+67            android:name="com.sms.sopnopay.LoginActivity"
+67-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:56:13-42
+68            android:exported="true" />
+68-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:57:13-36
+69        <activity
+69-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:58:9-60:39
+70            android:name="com.sms.sopnopay.MainActivity"
+70-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:59:13-41
+71            android:exported="true" />
+71-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:60:13-36
+72
+73        <service
+73-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:62:9-66:56
+74            android:name="com.sms.sopnopay.MyBackgroundService"
+74-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:63:13-48
+75            android:enabled="true"
+75-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:64:13-35
+76            android:exported="false"
+76-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:65:13-37
+77            android:foregroundServiceType="location" />
+77-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:66:13-53
+78
+79        <receiver
+79-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:68:9-75:20
+80            android:name="com.sms.sopnopay.BootReceiver"
+80-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:69:13-41
+81            android:exported="true" >
+81-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:70:13-36
+82            <intent-filter>
+82-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:71:13-74:29
+83                <action android:name="android.intent.action.BOOT_COMPLETED" />
+83-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:72:17-79
+83-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:72:25-76
+84                <action android:name="android.intent.action.REBOOT" />
+84-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:73:17-71
+84-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:73:25-68
+85            </intent-filter>
+86        </receiver>
+87        <receiver
+87-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:76:9-82:20
+88            android:name="com.sms.sopnopay.NetworkChangeReceiver"
+88-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:77:13-50
+89            android:exported="true" >
+89-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:78:13-36
+90            <intent-filter>
+90-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:79:13-81:29
+91                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+91-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:80:17-79
+91-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:80:25-76
+92            </intent-filter>
+93        </receiver>
+94        <receiver
+94-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:83:9-93:20
+95            android:name="com.sms.sopnopay.SmsReceiver"
+95-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:84:13-40
+96            android:enabled="true"
+96-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:85:13-35
+97            android:exported="true" >
+97-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:86:13-36
+98            <intent-filter android:priority="2147483647" >
+98-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:87:13-92:29
+98-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:87:28-57
+99                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+99-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:88:17-82
+99-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:88:25-79
+100                <action android:name="android.intent.action.BOOT_COMPLETED" />
+100-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:72:17-79
+100-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:72:25-76
+101                <action android:name="android.intent.action.REBOOT" />
+101-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:73:17-71
+101-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:73:25-68
+102                <action android:name="developer.mrj.action.SmsReceiver" />
+102-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:91:17-75
+102-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:91:25-72
+103            </intent-filter>
+104        </receiver>
+105
+106        <activity
+106-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:95:9-103:20
+107            android:name="com.sms.sopnopay.SplashActivity"
+107-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:96:13-43
+108            android:exported="true" >
+108-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:97:13-36
+109            <intent-filter>
+109-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:98:13-102:29
+110                <action android:name="android.intent.action.MAIN" />
+110-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:99:17-69
+110-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:99:25-66
+111
+112                <category android:name="android.intent.category.LAUNCHER" />
+112-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:101:17-77
+112-->D:\Sopno Pay\app\src\main\AndroidManifest.xml:101:27-74
+113            </intent-filter>
+114        </activity>
+115
+116        <provider
+116-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+117            android:name="androidx.startup.InitializationProvider"
+117-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+118            android:authorities="com.sms.sopnopay.androidx-startup"
+118-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+119            android:exported="false" >
+119-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+120            <meta-data
+120-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+121                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+121-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+122                android:value="androidx.startup" />
+122-->[androidx.emoji2:emoji2:1.3.0] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\3b281f9c4ab21642f783bf5201a83c26\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+123            <meta-data
+123-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\c4003cecc696485edca78fd22f75e67d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+124                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+124-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\c4003cecc696485edca78fd22f75e67d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+125                android:value="androidx.startup" />
+125-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\c4003cecc696485edca78fd22f75e67d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+126            <meta-data
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+127                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+128                android:value="androidx.startup" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+129        </provider>
+130
+131        <receiver
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+132            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+132-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+133            android:directBootAware="false"
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+134            android:enabled="true"
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+135            android:exported="true"
+135-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+136            android:permission="android.permission.DUMP" >
+136-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+137            <intent-filter>
+137-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+138                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+138-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+138-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+139            </intent-filter>
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+141                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+141-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+144                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+144-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+144-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+145            </intent-filter>
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+147                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+147-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+147-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\SD Leon DiL\.gradle\caches\8.10.2\transforms\6e2966b727e565a3fff8d7746c8d03ff\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+148            </intent-filter>
+149        </receiver>
+150    </application>
+151
+152</manifest>
