@@ -1,0 +1,3 @@
+com.sms.sopnopay.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
