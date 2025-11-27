@@ -1,0 +1,4 @@
+#Mon Mar 24 14:57:41 BDT 2025
+base.0=X\:\\Sopno Pay\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
